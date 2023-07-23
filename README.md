@@ -1,4 +1,4 @@
-![logo](https://github.com/ChandrakantShelke/Chandrakant-Shelke/blob/main/Screenshot%202023-07-23%20233230.png)
+![logo](https://github.com/ChandrakantShelke/ChandrakantShelke/blob/main/Screenshot%202023-07-23%20233230.png)
 
 <h1 align="center">Hi 👋, I'm Chandrakant Shelke</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
